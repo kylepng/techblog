@@ -25,10 +25,6 @@ npm run watch  --or--  npm sun start
 <br>
 <br>
 
-## Links and Images
-Repo - https://github.com/DavidBuoy/tech-blog
-<br>
-Heroku Deployment - https://techblog-db.herokuapp.com/
 
 <br>
 <br>
