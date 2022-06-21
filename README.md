@@ -2,14 +2,6 @@
 <h4 align="center">Kyle Kumar </h4> 
 <br>
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact Info ](#Contact-Info:)
-<br>
-<br>
 
 
 
